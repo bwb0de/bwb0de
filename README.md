@@ -2,7 +2,7 @@
 
 Este é o meu perfil público utilizado para centralizar as informações compartilhadas ou produzidas por mim tanto enquanto código como enquanto outras mídias distribuídas via rede descentralizada (torrent).
 
-Contacte-me diretamente via Telegram: https://t.me/joinchat/AAAAAFCOcL9111xlXyEhDQ
+Contacte-me diretamente via Telegram: https://t.me/joinchat/AAAAAFCOcL9111xlXyEhDQ        
 Link para postagens do Blog: https://github.com/bwb0de/misc_content
 
 <!--
