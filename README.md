@@ -3,6 +3,7 @@
 Este é o meu perfil público utilizado para centralizar as informações compartilhadas ou produzidas por mim tanto enquanto código como enquanto outras mídias distribuídas via rede descentralizada (torrent).
 
 Contacte-me diretamente via Telegram: https://t.me/joinchat/AAAAAFCOcL9111xlXyEhDQ
+Link para postagens do Blog: https://github.com/bwb0de/misc_content
 
 <!--
 **bwb0de/bwb0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
