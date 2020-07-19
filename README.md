@@ -1,4 +1,8 @@
-### Hi there 👋
+### Seja bem vindo! 👋
+
+Este é o meu perfil público utilizado para centralizar as informações compartilhadas ou produzidas por mim tanto enquanto código como enquanto outras mídias distribuídas via rede descentralizada (torrent).
+
+Telegram: https://t.me/joinchat/AAAAAFCOcL9111xlXyEhDQ
 
 <!--
 **bwb0de/bwb0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
