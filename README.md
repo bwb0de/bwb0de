@@ -1,4 +1,4 @@
-### Seja bem vindo! 👋
+### Seja bem vindos! 👋
 
 Este é o meu perfil público utilizado para centralizar as informações compartilhadas ou produzidas por mim tanto enquanto código como enquanto outras mídias distribuídas via rede descentralizada (torrent).
 
